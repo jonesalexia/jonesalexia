@@ -4,7 +4,7 @@
 
 😊 Me chamo Alexia;<br>
 👩🏻‍💻 Desenvolvedora Fullstack em formação;<br>
-💻 Estou cursando o 3° semestre de Análise e Desenvolvimento de Sistemas;<br>
+💻 Estou cursando o 5° semestre de Análise e Desenvolvimento de Sistemas;<br>
 🧑🏻 Sou mãe atípica de um menino de 9 anos;<br>
 📚 Além da tecnologia, sou apaixonada por literatura.<br><br>
 
